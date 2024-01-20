@@ -18,8 +18,14 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 ---
 
 #### Languages and Tools
-<img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devions/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/79ef459f-6fdd-4a41-af19-3dcc430d2c4f"/>
+<br />
 
+<!--
+![icons8-scala-a-general-purpose-programming-language-with-strong-static-type-system-48](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/79ef459f-6fdd-4a41-af19-3dcc430d2c4f)
+
+https://icons8.com/icon/FIdVBOahSJu0/scala-a-general-purpose-programming-language-with-strong-static-type-system
+-->
 ---
 
 #### You would like to watch
