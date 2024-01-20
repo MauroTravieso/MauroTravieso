@@ -10,7 +10,7 @@ Big Data Engineer professional, and researcher, with experience in software appl
 Engineering/Machine Learning fields. Proficient skills in Big Data using the ecosystem tools for ETL/ELT
 pipeline development and analytics, mathematical algorithms, theoretical modeling, and adaptive programming.
 
-<img src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/b6608ef9-7f9e-4f60-8e6b-4d1426d297db" alt="LinkedIn" width="30" height="30" border="5"/> [LinkedIn Profile](https://www.linkedin.com/in/maurotravieso/?locale=en_US)
+<img src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/b6608ef9-7f9e-4f60-8e6b-4d1426d297db" alt="LinkedIn" width="20" height="20" border="5"/> [LinkedIn Profile](https://www.linkedin.com/in/maurotravieso/?locale=en_US)
 
 <!--
 ![LinkedIn](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/b6608ef9-7f9e-4f60-8e6b-4d1426d297db) 
