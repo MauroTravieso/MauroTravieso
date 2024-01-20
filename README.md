@@ -17,6 +17,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 ---
 
+#### Languages and Tools
+<img align="left alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devions/devicon/icons/java/java-original.svg"/>
+
+---
+
 #### You would like to watch
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=TMXWLxsHXzQ" target="_blank"><img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
