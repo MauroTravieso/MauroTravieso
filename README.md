@@ -2,7 +2,7 @@
 
 ### **Mauro Travieso**
 
-#### **Big Data Engineer / Machine Learning Engineer**
+#### **`Big Data Engineer / Machine Learning Engineer`**
 
 ---
 
