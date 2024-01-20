@@ -18,7 +18,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 ---
 
 #### Languages and Tools
-<img align="left alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devions/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devions/devicon/icons/java/java-original.svg"/>
 
 ---
 
