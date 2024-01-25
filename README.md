@@ -18,13 +18,16 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <br/>
 
 #### You would like to watch
+---
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=TMXWLxsHXzQ" target="_blank"><img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=ulgE5y2ywq8" target="_blank"><img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" alt="Image Classification" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=5YQ3v-WnVWA" target="_blank"><img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" alt="Ensemble Models" width="248" height="180" border="18"/></a>
-<br/>
+<br/><br/>
+
 
 #### Languages and Tools
+---
 <img align="left" alt="Scala" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c"/>
 <img align="left" alt="Python" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e3b2ef95-189a-4d34-bad3-a1bee8aff363"/>
@@ -55,7 +58,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Google Colab" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da"/>
 <img align="left" alt="GCP" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a0b8836-6b7d-40b0-ab95-ad08ebe5f093"/>
 <img align="left" alt="AWS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f"/>
-<br/>
+<br/><br/>
 
 
 <img align="left" alt="IntelliJ" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b"/>
@@ -107,7 +110,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 https://icons8.com/icon/FIdVBOahSJu0/scala-a-general-purpose-programming-language-with-strong-static-type-system
 -->
----
 
 <!--
 **MauroTravieso/MauroTravieso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
