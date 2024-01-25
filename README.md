@@ -26,9 +26,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39"/>
 <img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a"/>
 <img align="left" alt="AWS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f"/>
-<br/>
-
----
 <img align="left" alt="CentOS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ed800e19-5b9a-416b-a693-4805a7cbd585"/>
 <img align="left" alt="Google Colab" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da"/>
 <img align="left" alt="Docker" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ebf1c839-1e80-4488-a8ff-06303454e911"/>
@@ -48,9 +45,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="RStudio" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d83433b6-b0e4-46d6-8e12-cc232286af8a"/>
 <img align="left" alt="Apache Superset" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5"/>
 <img align="left" alt="Linux Ubuntu" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46"/>
-<br/>
-
----
 <img align="left" alt="Apache Zeppelin" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef"/>
 <img align="left" alt="Jupyter Notebooks" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523"/>
 <br />
