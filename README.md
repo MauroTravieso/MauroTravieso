@@ -39,6 +39,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="IntelliJ" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b"/>
 <br/>
 
+---
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c"/>
 <img align="left" alt="Apache Kafka" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6"/>
 <img align="left" alt="Linux" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/cb6e88cf-bbd3-45f2-8975-1b12763efb77"/>
