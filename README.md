@@ -25,13 +25,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <br/>
 
 #### Languages and Tools
-
 <img align="left" alt="Scala" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c"/>
 <img align="left" alt="Python" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e3b2ef95-189a-4d34-bad3-a1bee8aff363"/>
 <img align="left" alt="RStudio" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d83433b6-b0e4-46d6-8e12-cc232286af8a"/>
-<br/>
-
+<br/><br/>
 
 <img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b"/>
 <img align="left" alt="Apache Spark" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0"/>
@@ -45,14 +43,13 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Kafka" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6"/>
 <img align="left" alt="Apache Superset" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5"/>
 <img align="left" alt="Apache Zeppelin" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef"/>
-<br/>
-
+<br/><br/>
 
 <img align="left" alt="Linux" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/cb6e88cf-bbd3-45f2-8975-1b12763efb77"/>
 <img align="left" alt="Linux Ubuntu" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46"/>
 <img align="left" alt="CentOS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ed800e19-5b9a-416b-a693-4805a7cbd585"/>
 <img align="left" alt="Docker" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ebf1c839-1e80-4488-a8ff-06303454e911"/>
-<br/>
+<br/><br/>
 
 
 <img align="left" alt="Google Colab" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da"/>
