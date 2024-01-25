@@ -37,7 +37,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Drill" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/776b7c64-cd89-45a8-bfb5-9b0687f76757"/>
 <img align="left" alt="Apache Hive" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c893585e-c933-4587-ba8e-1f6b856658df"/>
 <img align="left" alt="Apache HBase" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06"/>
-<img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ae1806bf-73c3-48ed-8731-c743fcf01a1d"/>
 <img align="left" alt="Apache Kafka" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6"/>
 <img align="left" alt="Apache Superset" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5"/>
 <img align="left" alt="Apache Zeppelin" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef"/>
