@@ -54,15 +54,16 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Docker" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ebf1c839-1e80-4488-a8ff-06303454e911"/>
 <br/><br/>
 
-
-<img align="left" alt="Google Colab" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da"/>
 <img align="left" alt="GCP" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a0b8836-6b7d-40b0-ab95-ad08ebe5f093"/>
 <img align="left" alt="AWS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f"/>
 <br/><br/>
 
-
 <img align="left" alt="IntelliJ" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b"/>
 <img align="left" alt="PyCharm" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/fe8b51fc-7213-4b8e-9b79-f0671f3ecc89"/>
+<img align="left" alt="Visual Studio Code" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/4e353589-0d2a-49b6-bf12-dd3aacaf629f"/>
+<br/><br/>
+
+<img align="left" alt="Google Colab" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da"/>
 <img align="left" alt="Jupyter Notebooks" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523"/>
 <br/>
 
