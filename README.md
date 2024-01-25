@@ -18,13 +18,18 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 ---
 
 #### Languages and Tools
-<img align="left" alt="Scala" width="30px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
-<img align="left" alt="Hadoop" width="30px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b)"/>
-
+<img align="left" alt="Scala" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
+<img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b"/>
+<img align="left" alt="Apache Spark" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0"/>
+<img align="left" alt="Apache Avro" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c"/>
 
 <br />
 
 <!--
+
+![Avro](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c)
+
+![Spark](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0)
 
 ![hadoop-distributed-file-system-96](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b)
 
