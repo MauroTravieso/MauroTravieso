@@ -26,8 +26,53 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39"/>
 
 <br />
+![Airflow](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a)
+![AWS](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f)
+![CentOS](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ed800e19-5b9a-416b-a693-4805a7cbd585)
+![Colab](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da)
+![Docker png](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ebf1c839-1e80-4488-a8ff-06303454e911)
+![Drill](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/776b7c64-cd89-45a8-bfb5-9b0687f76757)
+![Google](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a0b8836-6b7d-40b0-ab95-ad08ebe5f093)
+![HBase](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06)
+![Hadoop](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ae1806bf-73c3-48ed-8731-c743fcf01a1d)
+![images](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/72954344-d786-423f-9a36-c456a9c8c28a)
+![IntelliJ](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b)
+![Java](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c)
+![Kafka](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6)
+![Linux](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/cb6e88cf-bbd3-45f2-8975-1b12763efb77)
+![PyCharm](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/fe8b51fc-7213-4b8e-9b79-f0671f3ecc89)
+![Python](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e3b2ef95-189a-4d34-bad3-a1bee8aff363)
+![RStudio](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d83433b6-b0e4-46d6-8e12-cc232286af8a)
+![Superset](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5)
+![Ubuntu](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46)
+![Zeppelin](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef)
+![Jupyter](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523)
 
 <!--
+![Airflow](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a)
+![AWS](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f)
+![CentOS](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ed800e19-5b9a-416b-a693-4805a7cbd585)
+![Colab](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e73b1969-3e2b-4eee-80c3-2ec1bb22f2da)
+![Docker png](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ebf1c839-1e80-4488-a8ff-06303454e911)
+![Drill](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/776b7c64-cd89-45a8-bfb5-9b0687f76757)
+![Google](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a0b8836-6b7d-40b0-ab95-ad08ebe5f093)
+![HBase](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06)
+![Hadoop](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ae1806bf-73c3-48ed-8731-c743fcf01a1d)
+![images](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/72954344-d786-423f-9a36-c456a9c8c28a)
+![IntelliJ](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b)
+![Java](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c)
+![Kafka](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6)
+![Linux](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/cb6e88cf-bbd3-45f2-8975-1b12763efb77)
+![PyCharm](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/fe8b51fc-7213-4b8e-9b79-f0671f3ecc89)
+![Python](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e3b2ef95-189a-4d34-bad3-a1bee8aff363)
+![RStudio](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d83433b6-b0e4-46d6-8e12-cc232286af8a)
+![Superset](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5)
+![Ubuntu](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46)
+![Zeppelin](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef)
+![Jupyter](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523)
+
+
+
 ![Pig](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/3fc59d56-bd28-48be-b276-ea688a9cd1b5)
 ![sqoop logo](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39)
 
