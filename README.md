@@ -22,10 +22,14 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b"/>
 <img align="left" alt="Apache Spark" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0"/>
 <img align="left" alt="Apache Avro" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c"/>
+<img align="left" alt="Apache Pig" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/3fc59d56-bd28-48be-b276-ea688a9cd1b5"/>
+<img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39"/>
 
 <br />
 
 <!--
+![Pig](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/3fc59d56-bd28-48be-b276-ea688a9cd1b5)
+![sqoop logo](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39)
 
 ![Avro](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c)
 
