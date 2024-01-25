@@ -26,6 +26,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39"/>
 <img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a"/>
 <img align="left" alt="AWS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c1abdddb-365c-4730-8e7b-5b04c31d7a5f"/>
+<br/>
 
 ---
 <img align="left" alt="CentOS" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ed800e19-5b9a-416b-a693-4805a7cbd585"/>
@@ -36,6 +37,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="HBase" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06"/>
 <img align="left" alt="Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/ae1806bf-73c3-48ed-8731-c743fcf01a1d"/>
 <img align="left" alt="IntelliJ" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/39192979-8dfd-49f3-8205-0bc367c2491b"/>
+<br/>
 
 ---
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c"/>
@@ -46,6 +48,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="RStudio" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d83433b6-b0e4-46d6-8e12-cc232286af8a"/>
 <img align="left" alt="Apache Superset" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5"/>
 <img align="left" alt="Linux Ubuntu" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46"/>
+<br/>
 
 ---
 <img align="left" alt="Apache Zeppelin" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef"/>
