@@ -17,7 +17,12 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 <br/>
 
-
+#### You would like to watch
+<a href="http://www.youtube.com/watch?eature=player_embedded&v=TMXWLxsHXzQ" target="_blank"><img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
+<a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
+<a href="http://www.youtube.com/watch?eature=player_embedded&v=ulgE5y2ywq8" target="_blank"><img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" alt="Image Classification" width="248" height="180" border="18"/></a>
+<a href="http://www.youtube.com/watch?eature=player_embedded&v=5YQ3v-WnVWA" target="_blank"><img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" alt="Ensemble Models" width="248" height="180" border="18"/></a>
+<br/>
 
 #### Languages and Tools
 ---
@@ -109,13 +114,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 https://icons8.com/icon/FIdVBOahSJu0/scala-a-general-purpose-programming-language-with-strong-static-type-system
 -->
 ---
-
-#### You would like to watch
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=TMXWLxsHXzQ" target="_blank"><img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=ulgE5y2ywq8" target="_blank"><img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" alt="Image Classification" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=5YQ3v-WnVWA" target="_blank"><img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" alt="Ensemble Models" width="248" height="180" border="18"/></a>
-
 
 <!--
 **MauroTravieso/MauroTravieso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
