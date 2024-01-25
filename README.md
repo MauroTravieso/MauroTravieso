@@ -19,9 +19,15 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### Languages and Tools
 <img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
+<img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b)"/>
+
+
 <br />
 
 <!--
+
+![hadoop-distributed-file-system-96](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c7b42c93-d68c-4056-9d51-63ea2f0e731b)
+
 ![icons8-scala-a-general-purpose-programming-language-with-strong-static-type-system-96](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6)
 
 ![icons8-scala-a-general-purpose-programming-language-with-strong-static-type-system-48](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/79ef459f-6fdd-4a41-af19-3dcc430d2c4f)
