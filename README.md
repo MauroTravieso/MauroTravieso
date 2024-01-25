@@ -25,7 +25,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <br/>
 
 #### Languages and Tools
----
+
 <img align="left" alt="Scala" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/03607780-3f9e-456c-a91e-1349c0382d3c"/>
 <img align="left" alt="Python" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/e3b2ef95-189a-4d34-bad3-a1bee8aff363"/>
@@ -66,9 +66,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Jupyter Notebooks" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523"/>
 <br/>
 
----
-
-<br />
 
 <!--
 ![Hive](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c893585e-c933-4587-ba8e-1f6b856658df)
