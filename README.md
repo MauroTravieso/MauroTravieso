@@ -44,12 +44,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Linux Ubuntu" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/8c2df347-19b6-496b-bca8-ba097d641b46"/>
 <img align="left" alt="Apache Zeppelin" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a81405cb-97cd-4418-bc78-b757a6eeaeef"/>
 <img align="left" alt="Jupyter Notebooks" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/81f28b8b-dd5c-45f5-bfc1-93d6ac299523"/>
-<img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src=""/>
-<img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src=""/>
-
-
-
-
 <br />
 
 <!--
