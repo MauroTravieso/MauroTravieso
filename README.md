@@ -37,15 +37,14 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/69437a5b-a645-4c36-9448-e3bfb250d3cc"/>
 <img align="left" alt="Apache Spark" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0"/>
 <img align="left" alt="Apache Avro" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c"/>
-<img align="left" alt="Apache Pig" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/3fc59d56-bd28-48be-b276-ea688a9cd1b5"/>
-<img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6cbd3863-6ed9-4c99-8e27-08b91e6b4b39"/>
+<img align="left" alt="Apache Pig" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/83205b2f-b2bf-4cad-a6d3-b46b9cb5209b"/>
+<img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a5d4882-d9f6-42e4-8c92-892b8701aae8"/>
 <img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a"/>
-<img align="left" alt="Apache Drill" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/776b7c64-cd89-45a8-bfb5-9b0687f76757"/>
+<img align="left" alt="Apache Drill" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6c18d1e1-62b5-4d69-93d7-bcbdf56526bd"/>
 <img align="left" alt="Apache Hive" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c893585e-c933-4587-ba8e-1f6b856658df"/>
 <img align="left" alt="Apache HBase" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06"/>
-<img align="left" alt="Apache Kafka" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/d6da4b9b-299d-4139-a56d-06e3c38d4ce6"/>
+<img align="left" alt="Apache Kafka" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/1c4402dc-98e2-457e-b1d1-3e59bc7da125"/>
 <img align="left" alt="Apache Superset" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c964a3b7-fd52-4ecb-acfe-bc76e942bdb5"/>
-
 <br/><br/>
 
 <img align="left" alt="Linux" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/cb6e88cf-bbd3-45f2-8975-1b12763efb77"/>
