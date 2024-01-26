@@ -23,6 +23,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=ulgE5y2ywq8" target="_blank"><img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" alt="Image Classification" width="248" height="180" border="18"/></a>
 <a href="http://www.youtube.com/watch?eature=player_embedded&v=5YQ3v-WnVWA" target="_blank"><img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" alt="Ensemble Models" width="248" height="180" border="18"/></a>
+<a href="http://www.youtube.com/watch?eature=player_embedded&v=gMdk-nFTpHY" target="_blank"><img src="http://img.youtube.com/vi/gMdk-nFTpHY/0.jpg" alt="Gradient Boosting & XGBoost Models" width="248" height="180" border="18"/></a>
 <br/><br/>
 
 
