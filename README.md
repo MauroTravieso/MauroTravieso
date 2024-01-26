@@ -37,9 +37,9 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <img align="left" alt="Apache Hadoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/69437a5b-a645-4c36-9448-e3bfb250d3cc"/>
 <img align="left" alt="Apache Spark" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a9ac023c-353a-425d-9f6b-1d8718e84ca0"/>
 <img align="left" alt="Apache Avro" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/a49d5f9d-f1b1-445d-ba4b-397f45fdde1c"/>
-<img align="left" alt="Apache Pig" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/83205b2f-b2bf-4cad-a6d3-b46b9cb5209b"/>
-<img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6a5d4882-d9f6-42e4-8c92-892b8701aae8"/>
-<img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/59990a8a-ecc5-42cc-9b57-4bae3118201a"/>
+<img align="left" alt="Apache Pig" width="30px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/83205b2f-b2bf-4cad-a6d3-b46b9cb5209b"/>
+<img align="left" alt="Apache Sqoop" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6e700710-748f-44aa-895c-2ab6fa876e54"/>
+<img align="left" alt="Apache Airflow" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c3ef88e2-3119-45e9-8303-8bcbb97d0801"/>
 <img align="left" alt="Apache Drill" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/6c18d1e1-62b5-4d69-93d7-bcbdf56526bd"/>
 <img align="left" alt="Apache Hive" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/c893585e-c933-4587-ba8e-1f6b856658df"/>
 <img align="left" alt="Apache HBase" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/347bf337-da28-4a3a-b251-4beadecaba06"/>
