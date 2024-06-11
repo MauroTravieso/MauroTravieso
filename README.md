@@ -1,4 +1,7 @@
-![Big Data Engineer](https://media.licdn.com/dms/image/C5616AQHCfQ4jmmEH6g/profile-displaybackgroundimage-shrink_350_1400/0/1517558697866?e=1710979200&v=beta&t=BNFNcZCI69jar_t2LJ_Fa3YC_LATIM5v1AmONL1h0gk)
+![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
+<!--
+![600x200](https://media.licdn.com/dms/image/C5616AQHCfQ4jmmEH6g/profile-displaybackgroundimage-shrink_350_1400/0/1517558697866?e=1710979200&v=beta&t=BNFNcZCI69jar_t2LJ_Fa3YC_LATIM5v1AmONL1h0gk)
+-->
 
 ### **Mauro Travieso**
 
