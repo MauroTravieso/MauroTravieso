@@ -9,7 +9,7 @@
 
 ---
 
-Big Data Engineer professional, and researcher, with experience in software application development in the Data
+Big Data Engineer professional and researcher, with experience in software application development in the Data
 Engineering/Machine Learning fields. Proficient skills in Big Data using the ecosystem tools for ETL/ELT
 pipeline development and analytics, mathematical algorithms, theoretical modeling, and adaptive programming.
 
