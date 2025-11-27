@@ -20,9 +20,9 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 <br/>
 
-#### Latest:
+#### Latest: **Real-Time GeoSpatial Big Data | Processing and Governing**
 
-<a href="https://www.youtube.com/watch?v=fLdN0HJHJfQ" target="_blank"><img src="http://img.youtube.com/vi/fLdN0HJHJfQ/0.jpg" alt="Real-Time GeoSpatial Data | Processing and Governing" width="248" height="180" border="18"/></a>
+<a href="https://www.youtube.com/watch?v=fLdN0HJHJfQ" target="_blank"><img src="http://img.youtube.com/vi/fLdN0HJHJfQ/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
 
 <br/>
 
