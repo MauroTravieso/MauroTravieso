@@ -24,22 +24,29 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 🛰️ *Satellite Trajectory Classification System*
 
+* Equirectangular projections
 ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1)
 
+* Satellites' LEO
 ![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
 
+* Satellite classification App in Production
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
 
 ---
 
 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
 
+* Transportation Data interaction 
 ![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
 
+* Live Transportation App in Production
 ![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
 
+* **GeoSpatial Project overview**
 
-<a href="https://www.youtube.com/watch?v=fLdN0HJHJfQ" target="_blank"><img src="http://img.youtube.com/vi/fLdN0HJHJfQ/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
+* **Detailed GeoSpatial project development**
+<a href="https://www.youtube.com/watch?v=h7dsgOgu3ew" target="_blank"><img src="http://img.youtube.com/vi/h7dsgOgu3ew/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
 
 <br/>
 
