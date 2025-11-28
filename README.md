@@ -22,6 +22,10 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### Latest: **Real-Time GeoSpatial Big Data | Processing and Governing**
 
+🛰️ *Satellite Trajectory Classification System*
+
+🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+
 <a href="https://www.youtube.com/watch?v=fLdN0HJHJfQ" target="_blank"><img src="http://img.youtube.com/vi/fLdN0HJHJfQ/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
 
 <br/>
