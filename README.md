@@ -26,13 +26,15 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1)
 
-![satellites](https://github.com/user-attachments/assets/72efa8af-5e46-43d8-abc9-0fe0616bbfa1)
+![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
 
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
 
 ---
 
 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+
+![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
 
 ![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
 
