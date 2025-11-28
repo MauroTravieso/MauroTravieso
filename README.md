@@ -24,7 +24,18 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 🛰️ *Satellite Trajectory Classification System*
 
+![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1)
+
+![satellites](https://github.com/user-attachments/assets/72efa8af-5e46-43d8-abc9-0fe0616bbfa1)
+
+![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
+
+---
+
 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+
+![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
+
 
 <a href="https://www.youtube.com/watch?v=fLdN0HJHJfQ" target="_blank"><img src="http://img.youtube.com/vi/fLdN0HJHJfQ/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
 
