@@ -25,12 +25,17 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 🛰️ *Satellite Trajectory Classification System*
 
 * Equirectangular projections
+  
 ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1)
+<br/>
 
 * Satellites' LEO
+
 ![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
+<br/>
 
 * Satellite classification App in Production
+
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
 
 ---
@@ -39,9 +44,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 * Transportation Data interaction 
 ![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
+<br/>
 
 * Live Transportation App in Production
 ![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
+<br/>
 
 * **GeoSpatial Project overview**
   
