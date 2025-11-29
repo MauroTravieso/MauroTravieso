@@ -2,11 +2,12 @@
 <!--
 ![600x200](https://media.licdn.com/dms/image/C5616AQHCfQ4jmmEH6g/profile-displaybackgroundimage-shrink_350_1400/0/1517558697866?e=1710979200&v=beta&t=BNFNcZCI69jar_t2LJ_Fa3YC_LATIM5v1AmONL1h0gk)
 -->
-
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15" width="800" height="300" alt="Banner">
 </p>
 <br/>
+-->
 
 ### **Mauro Travieso**
 
@@ -25,9 +26,15 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 <br/>
 
-#### Latest!: 
+---
+
+#### ⚡ Latest!: 
+
+<br/>
 
 #### **`Real-Time GeoSpatial Big Data | Processing and Governing`**
+
+<br/>
 
 #### 🛰️ *Satellite Trajectory Classification System*
 
