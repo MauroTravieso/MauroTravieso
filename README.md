@@ -41,7 +41,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
   <img src="https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75" width="500" alt="Satellites' LEO ">
 </p>
 <p align="center">
-  <em>Equirectangular projections</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Satellites' LEO</em>
+  <em>Equirectangular projections          </em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>          Satellites' LEO</em>
 </p>
 
 <!--
@@ -76,7 +76,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="320" alt="Transportation Data interaction">
+  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="315" alt="Transportation Data interaction">
   <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="300" alt="Transportation App in Production">
 </p>
 <p align="center">
