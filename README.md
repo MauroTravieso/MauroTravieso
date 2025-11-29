@@ -20,7 +20,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 <br/>
 
-#### Latest: 
+#### Latest!: 
 
 #### **`Real-Time GeoSpatial Big Data | Processing and Governing`**
 
@@ -58,19 +58,31 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="280" alt="Equirectangular projections">
+  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="280" alt="Satellite classification App">
 </p>
+
 ---
 
-## 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+#### 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
 
-* Real-time Transportation Data interaction 
+##### * Real-time Transportation Data interaction & Current Transportation App in Production 
+<!--
 ![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
 <br/>
 
 * Current Transportation App in Production
 ![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
 <br/>
+-->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" alt="Transportation Data interaction">
+  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" alt="Transportation App in Production">
+</p>
+<p align="center">
+  <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
+</p>
+
 
 ---
 
