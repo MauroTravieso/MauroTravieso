@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15" width="1200" height="300" alt="Equirectangular projections">
+  <img src="https://github.com/user-attachments/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15" width="800" height="300" alt="Banner">
 </p>
 <br/>
 
