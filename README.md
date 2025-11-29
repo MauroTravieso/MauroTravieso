@@ -58,7 +58,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="280" alt="Satellite classification App">
+  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="305" alt="Satellite classification App">
 </p>
 
 ---
@@ -76,8 +76,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="355" alt="Transportation Data interaction">
-  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="355" alt="Transportation App in Production">
+  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="305" alt="Transportation Data interaction">
+  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="305" alt="Transportation App in Production">
 </p>
 <p align="center">
   <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
