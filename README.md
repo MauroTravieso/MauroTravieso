@@ -36,11 +36,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="400" height="300" alt="Equirectangular projections">
-  <img src="https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75" width="400" height="700" alt="Satellites' LEO ">
+  <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="400" height="200" alt="Equirectangular projections">
+  <img src="https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75" width="400" height="900" alt="Satellites' LEO ">
 </p>
 <p align="center">
-  <em>Equirectangular projections</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Satellites' LEO</em>
+  <em>Equirectangular projections</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Satellites' LEO</em>
 </p>
 
 * Active Satellites' LEO
