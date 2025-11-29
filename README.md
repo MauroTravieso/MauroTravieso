@@ -84,7 +84,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
 
-##### * Real-time Transportation Data interaction & Current Transportation App in Production 
+##### * Real-time Transportation Data interaction & Current Transportation App in Production | Geocoding & Reverse geocoding
 <!--
 ![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
 <br/>
