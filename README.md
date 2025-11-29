@@ -26,14 +26,15 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 ### 🛰️ *Satellite Trajectory Classification System*
 
-* Live Equirectangular projections
+#### * Live Equirectangular projections & Active Satellites' LEO
   
 <!--- ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1) --->
-
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="400"  height="300" alt="Equirectangular projections">
 </p>
 <br/>
+-->
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="500" height="280" alt="Equirectangular projections">
