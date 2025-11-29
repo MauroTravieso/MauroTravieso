@@ -76,8 +76,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="400" height="310" alt="Transportation Data interaction">
-  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="400" height="300" alt="Transportation App in Production">
+  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="320" alt="Transportation Data interaction">
+  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="300" alt="Transportation App in Production">
 </p>
 <p align="center">
   <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
