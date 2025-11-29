@@ -20,16 +20,22 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 -->
 <br/>
 
-#### Latest: **Real-Time GeoSpatial Big Data | Processing and Governing**
+#### Latest: 
 
-🛰️ *Satellite Trajectory Classification System*
+### **`Real-Time GeoSpatial Big Data | Processing and Governing`**
 
-* Equirectangular projections
+### 🛰️ *Satellite Trajectory Classification System*
+
+* Live Equirectangular projections
   
-![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1)
+<!--- ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1) --->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="400"  height="300" alt="Equirectangular projections">
+</p>
 <br/>
 
-* Satellites' LEO
+* Active Satellites' LEO
 
 ![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
 <br/>
@@ -40,15 +46,17 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 ---
 
-🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+## 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
 
-* Transportation Data interaction 
+* Real-time Transportation Data interaction 
 ![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
 <br/>
 
-* Live Transportation App in Production
+* Current Transportation App in Production
 ![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
 <br/>
+
+---
 
 * **GeoSpatial Project overview (3 min)**
 
@@ -56,7 +64,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
-* **Detailed GeoSpatial project development**
+* **Detailed GeoSpatial Project development**
   
 <a href="https://www.youtube.com/watch?v=Wfw7ev3jt4U" target="_blank"><img src="http://img.youtube.com/vi/Wfw7ev3jt4U/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="248" height="180" border="18"/></a>
 <br/>
