@@ -105,7 +105,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 ---
 
-#### For more, click on to watch:
+#### ✅ For more, click on to watch:
 
 * **GeoSpatial Project overview (3 min)**
 
