@@ -22,11 +22,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### Latest: 
 
-### **`Real-Time GeoSpatial Big Data | Processing and Governing`**
+#### **`Real-Time GeoSpatial Big Data | Processing and Governing`**
 
-### 🛰️ *Satellite Trajectory Classification System*
+#### 🛰️ *Satellite Trajectory Classification System*
 
-#### * Live Equirectangular projections & Active Satellites' LEO
+##### * Live Equirectangular projections & Active Satellites' LEO
   
 <!--- ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1) --->
 <!--
@@ -44,15 +44,22 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
   <em>Equirectangular projections</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Satellites' LEO</em>
 </p>
 
+<!--
 * Active Satellites' LEO
 
 ![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
 <br/>
+-->
+
+<br/>
 
 * Satellite classification App in Production
-
+<!--
 ![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
-
+-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="280" alt="Equirectangular projections">
+</p>
 ---
 
 ## 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
