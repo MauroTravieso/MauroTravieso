@@ -32,8 +32,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
-#### **`GeoSpatial Big Data`** 
-  * Real-Time Orchestrating,
+#### **`GeoSpatial Big Data | Real-time`** 
+  * Orchestrating,
   * Capturing,
   * Processing,
   * Querying,
