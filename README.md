@@ -3,6 +3,11 @@
 ![600x200](https://media.licdn.com/dms/image/C5616AQHCfQ4jmmEH6g/profile-displaybackgroundimage-shrink_350_1400/0/1517558697866?e=1710979200&v=beta&t=BNFNcZCI69jar_t2LJ_Fa3YC_LATIM5v1AmONL1h0gk)
 -->
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15" width="1200" height="300" alt="Equirectangular projections">
+</p>
+<br/>
+
 ### **Mauro Travieso**
 
 #### **`Big Data Engineer / Machine Learning Engineer`**
