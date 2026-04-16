@@ -43,6 +43,13 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
+#### 🛰️ *Geofence Detection & Ping-POIs Enrichment*
+<p align="center">
+  <img width="500" height="280" alt="Geofence_optimized" src="https://github.com/user-attachments/assets/493f2f8d-f5db-4435-b5fb-667bcaa9e4aa" />
+</p>
+
+<br/>
+
 #### 🛰️ *Satellite Trajectory Classification System*
 
 ##### * Live Equirectangular projections & Active Satellites' LEO
