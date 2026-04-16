@@ -130,7 +130,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
   <a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data | Geofencing, POI Joins, and Optimization" width="268" height="200" border="18"/></a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
     <img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Processing and Governing" width="380" border="18" />
   </a>
@@ -142,7 +142,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
   <b>Real-Time GeoSpatial Big Data</b>
   <br>
   <i>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬢ Geofencing and Optimization</i>
-</p>
+<!-- </p> -->
 
 <br/>
 
