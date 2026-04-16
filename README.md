@@ -43,8 +43,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
-<!-- #### 🕸️ *Geofence Detection & Ping-POIs Enrichment* -->
-<h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4>
+#### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
+<!-- <h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4> -->
 
 ##### * Active Pings-POIs | Calculation & Interaction + Geofencing | Dasboarding & API calls
 
