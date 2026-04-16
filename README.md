@@ -43,7 +43,7 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
-#### 🛰️ *Geofence Detection & Ping-POIs Enrichment*
+#### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
 <p align="center">
   <img width="500" height="280" alt="Geofence_optimized" src="https://github.com/user-attachments/assets/493f2f8d-f5db-4435-b5fb-667bcaa9e4aa" />
 </p>
@@ -114,13 +114,11 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### ✅ For more, click on to watch:
 
-* **GeoSpatial Project overview (3 min)**
+* **GeoSpatial Projects overview (3 min)**
 
 <p align="center">
-
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank"><img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Real-Time GeoSpatial Big Data   | Processing and Governing" width="268" height="200" border="18"/></a>
-
-  <a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data: Geofencing,     POI Joins, and Optimization" width="268" height="200" border="18"/></a>
+  <a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data | Geofencing, POI Joins, and Optimization" width="268" height="200" border="18"/></a>
 </p>
 
 <br/>
