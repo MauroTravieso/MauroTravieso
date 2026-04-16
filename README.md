@@ -116,11 +116,12 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 * **GeoSpatial Project overview (3 min)**
 
-<a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank"><img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="268" height="200" border="18"/></a>
+<p align="center">
 
-<a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data: Geofencing, POI Joins, and Optimization" width="268" height="200" border="18"/></a>
+  <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank"><img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Real-Time GeoSpatial Big Data   | Processing and Governing" width="268" height="200" border="18"/></a>
 
-https://youtu.be/1wyI5fd24Pc
+  <a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data: Geofencing,     POI Joins, and Optimization" width="268" height="200" border="18"/></a>
+</p>
 
 <br/>
 
