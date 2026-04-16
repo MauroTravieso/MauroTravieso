@@ -111,9 +111,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank"><img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="268" height="200" border="18"/></a>
 
-<video src="https://github.com/user-attachments/assets/62f081b7-7b01-49f1-9aab-4a88bc1c398f" controls="controls" muted="muted" autoplay="autoplay" loop="loop" style="max-width: 100%;">
-</video>
-
 <br/>
 
 * **Detailed GeoSpatial Project development**
