@@ -45,7 +45,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 #### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
 <p align="center">
-  <img width="500" height="280" alt="Geofence_optimized" src="https://github.com/user-attachments/assets/493f2f8d-f5db-4435-b5fb-667bcaa9e4aa" />
+  <img width="500" height="280" alt="Pings-POIs | Calculation & Interaction " src="https://github.com/user-attachments/assets/b315c1e5-0d5d-428d-9dc9-de8ed8082acc" />
+  <img width="500" height="280" alt="Geofencing | Dasboarding & API calls" src="https://github.com/user-attachments/assets/b494d8f9-5630-4fa4-b539-75e12a5d397e" />
 </p>
 
 <br/>
