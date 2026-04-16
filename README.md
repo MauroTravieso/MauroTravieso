@@ -235,7 +235,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/><br/>
 
-
 #### Big Data Languages and Cloud Cluster Ecosystem Tools
 ---
 <img align="left" alt="Scala" width="35px" style="padding-right:5px;" src="https://github.com/MauroTravieso/MauroTravieso/assets/17593924/94f212ee-f608-49ee-9608-d83c2623cbe6"/>
