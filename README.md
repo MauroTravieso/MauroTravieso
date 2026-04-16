@@ -43,9 +43,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
-
+<!-- #### 🕸️ *Geofence Detection & Ping-POIs Enrichment* -->
 <h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4>
-#### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
 
 ##### * Active Pings-POIs | Calculation & Interaction + Geofencing | Dasboarding & API calls
 
@@ -121,9 +120,6 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
   <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
 </p>
 
-
-
-
 ---
 
 #### ✅ For more, click on to watch:
@@ -143,9 +139,9 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
         <i>Processing and Governing</i><br><br>
         <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
           <img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" 
-               alt="Processing and Governing." 
+               alt="Processing and Governing" 
                width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+               border="10" />
         </a>
       </td>
       <td align="center">
@@ -153,9 +149,9 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
         <i>⬢ Geofencing, POI Joins, and Optimization</i><br><br>
         <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
           <img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" 
-               alt="Geofencing and Optimization." 
+               alt="Geofencing and Optimization" 
                width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+               border="10" />
         </a>
       </td>
     </tr>
