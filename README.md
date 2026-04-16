@@ -60,6 +60,8 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 <br/>
 
+---
+
 #### 🛰️ *Satellite Trajectory Classification System*
 
 ##### * Live Equirectangular projections & Active Satellites' LEO
