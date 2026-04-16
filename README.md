@@ -45,83 +45,80 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 
 <h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4>
+#### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
+
+##### * Active Pings-POIs | Calculation & Interaction + Geofencing | Dasboarding & API calls
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <b>Active Pings-POIs</b><br>
-        <i>Calculation & Interaction</i><br><br>
-        <img src="https://github.com/user-attachments/assets/b315c1e5-0d5d-428d-9dc9-de8ed8082acc" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-      <td align="center">
-        <b>Geofencing Dashboards</b><br>
-        <i>Real-time Alerts & API Calls</i><br><br>
-        <img src="https://github.com/user-attachments/assets/b494d8f9-5630-4fa4-b539-75e12a5d397e" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-    </tr>
-  </table>
+  <img width="500" height="280" alt="Pings-POIs | Calculation & Interaction" src="https://github.com/user-attachments/assets/b315c1e5-0d5d-428d-9dc9-de8ed8082acc" />
+  <img width="500" height="280" alt="Geofencing | Dasboarding & API calls" src="https://github.com/user-attachments/assets/b494d8f9-5630-4fa4-b539-75e12a5d397e" />
+</p>
+
+<p align="center">
+  <em>Pings-POIs | Calculation & Interaction          </em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>          Geofencing | Dasboarding & API calls</em>
 </p>
 
 <br/>
 
-<h4 align="center">🛰️ <i>Satellite Trajectory Classification System</i></h4>
+#### 🛰️ *Satellite Trajectory Classification System*
+
+##### * Live Equirectangular projections & Active Satellites' LEO
+  
+<!--- ![satellites](https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1) --->
+<!--
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <b>Equirectangular Projections</b><br>
-        <i>Live Global Coverage</i><br><br>
-        <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-      <td align="center">
-        <b>Active Satellites' LEO</b><br>
-        <i>Orbital Path Visualization</i><br><br>
-        <img src="https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br><b>Satellite Classification App</b><br>
-        <i>Production Deployment Interface</i><br><br>
-        <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" 
-             width="700" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="400" height="300" alt="Equirectangular projections">
 </p>
+<br/>
+-->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a5da290-056b-4ec0-a798-8f4ceb109ac1" width="500" height="280" alt="Equirectangular projections">
+  <img src="https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75" width="500" alt="Satellites' LEO ">
+</p>
+<p align="center">
+  <em>Equirectangular projections          </em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>          Satellites' LEO</em>
+</p>
+
+<!--
+* Active Satellites' LEO
+
+![output](https://github.com/user-attachments/assets/7f541193-5d30-4f42-8d67-773cca2a5c75)
+<br/>
+-->
 
 <br/>
 
-<h4 align="center">🚤 🚁 🚢 <i>Vehicle Tracking ML System</i> 🚗 🚚 🏍️</h4>
+* Satellite classification App in Production
+<!--
+![app_2](https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a)
+-->
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <b>Transportation Data Interaction</b><br>
-        <i>Real-time Stream Enrichment</i><br><br>
-        <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-      <td align="center">
-        <b>Fleet Management App</b><br>
-        <i>Reverse Geocoding & Logistics</i><br><br>
-        <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" 
-             width="500" 
-             style="border: 4px solid #2d3436; border-radius: 12px;"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/83a7ff22-3270-4173-9690-6eef0ef6f38a" width="500" height="305" alt="Satellite classification App">
 </p>
+
+---
+
+#### 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
+
+##### * Real-time Transportation Data interaction & Current Transportation App in Production | Geocoding & Reverse geocoding
+<!--
+![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
+<br/>
+
+* Current Transportation App in Production
+![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
+<br/>
+-->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="305" alt="Transportation Data interaction">
+  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="305" alt="Transportation App in Production">
+</p>
+<p align="center">
+  <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
+</p>
+
 
 
 
