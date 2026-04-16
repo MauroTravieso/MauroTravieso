@@ -132,30 +132,17 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 </p> -->
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <b>Real-Time GeoSpatial Big Data</b><br>
-        <i>Processing and Governing</i><br><br>
-        <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
-          <img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" 
-               alt="Processing and Governing" 
-               width="350" 
-               border="10" />
-        </a>
-      </td>
-      <td align="center">
-        <b>Real-Time GeoSpatial Big Data</b><br>
-        <i>⬢ Geofencing, POI Joins, and Optimization</i><br><br>
-        <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
-          <img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" 
-               alt="Geofencing and Optimization" 
-               width="350" 
-               border="10" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
+    <img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Processing and Governing" width="380" border="10" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
+    <img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Geofencing and Optimization" width="380" border="10" />
+  </a>
+  <br>
+  <b>Real-Time GeoSpatial Big Data</b>
+  <br>
+  <i>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬢ Geofencing and Optimization</i>
 </p>
 
 <br/>
