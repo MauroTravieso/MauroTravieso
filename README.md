@@ -204,6 +204,7 @@ Big Data Engineer professional and researcher with experience in software applic
     </tr>
   </table>
 </p>
+
 ---
  
 ## 🛠️ Tech Stack
