@@ -89,22 +89,15 @@ Big Data Engineer professional and researcher with experience in software applic
 
 #### 🚤 🚁 🚢 *Vehicle Tracking ML System - Production Deployment* 🚗 🚚 🏍️
 
-##### * Real-time Transportation Data interaction & Current Transportation App in Production | Geocoding & Reverse geocoding
-<!--
-![resized](https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda)
-<br/>
-
-* Current Transportation App in Production
-![app_1](https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c)
-<br/>
--->
+##### * Real-time Transportation Data Interaction & Current Transportation App in Production | Geocoding & Reverse geocoding
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" width="500" height="305" alt="Transportation Data interaction">
-  <img src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" width="500" height="305" alt="Transportation App in Production">
+  <img width="490" alt="Transportation Data interaction" src="https://github.com/user-attachments/assets/7f1b4fac-2896-4441-9b54-9da637de8dda" />
+  &nbsp;
+  <img width="490" alt="Transportation App in Production" src="https://github.com/user-attachments/assets/bf016b84-b456-4a3e-94a0-8b9427be4e1c" />
 </p>
 <p align="center">
-  <em>Real-time Transportation Data interaction</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transportation App in Production</em>
+  <sub>Real-Time Transportation Data Interaction &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transportation App in Production</sub>
 </p>
 
 ---
