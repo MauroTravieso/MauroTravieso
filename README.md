@@ -125,24 +125,19 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 
 * **GeoSpatial Projects overview (3 min)**
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank"><img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="268" height="200" border="18"/></a>
-  <a href="https://youtu.be/1wyI5fd24Pc" target="_blank"><img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" alt="Real-Time GeoSpatial Big Data | Geofencing, POI Joins, and Optimization" width="268" height="200" border="18"/></a>
-</p> -->
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
-    <img src="http://img.youtube.com/vi/lVrTB5CuoSc/0.jpg" 
-         alt="Real-Time GeoSpatial Big Data | Processing and Governing" 
-         width="380" 
-         border="18" />
+    <img src="https://img.youtube.com/vi/lVrTB5CuoSc/0.jpg"
+         alt="Real-Time GeoSpatial Big Data | Processing and Governing"
+         width="380"
+         style="border-radius:12px;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
-    <img src="http://img.youtube.com/vi/1wyI5fd24Pc/0.jpg" 
-         alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization" 
-         width="380" 
-         border="18" />
+    <img src="https://img.youtube.com/vi/1wyI5fd24Pc/0.jpg"
+         alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"
+         width="380"
+         style="border-radius:12px;" />
   </a>
   <br>
   <b>Real-Time GeoSpatial Big Data</b>
@@ -153,23 +148,20 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
 <br/>
 
 * **Detailed GeoSpatial Project development**
-  
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Wfw7ev3jt4U" target="_blank">
-    <img src="http://img.youtube.com/vi/Wfw7ev3jt4U/0.jpg" alt="Real-Time GeoSpatial Big Data | Processing and Governing" width="268" height="200"        border="18"/>
+    <img src="https://img.youtube.com/vi/Wfw7ev3jt4U/0.jpg"
+         alt="Real-Time GeoSpatial Big Data | Processing and Governing"
+         width="380"
+         style="border-radius:12px;" />
   </a>
 </p>
+
 <br/>
 
 #### You would like to watch
 ---
-<!-- https://youtu.be/PwurmV6FxTA -->
-<!-- <a href="https://www.youtube.com/watch?v=PwurmV6FxTA" target="_blank"><img src="http://img.youtube.com/vi/PwurmV6FxTA/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=TMXWLxsHXzQ" target="_blank"><img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" alt="Large Language Models" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=e9JuSwie_qk" target="_blank"><img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" alt="Text Classification" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=ulgE5y2ywq8" target="_blank"><img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" alt="Image Classification" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=5YQ3v-WnVWA" target="_blank"><img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" alt="Ensemble Models" width="248" height="180" border="18"/></a>
-<a href="http://www.youtube.com/watch?eature=player_embedded&v=gMdk-nFTpHY" target="_blank"><img src="http://img.youtube.com/vi/gMdk-nFTpHY/0.jpg" alt="Gradient Boosting & XGBoost Models" width="248" height="180" border="18"/></a> -->
 
 <p align="center">
   <table align="center">
@@ -178,20 +170,20 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
         <b>Large Language Models</b><br>
         <i>Foundations and Architectures</i><br><br>
         <a href="https://www.youtube.com/watch?v=PwurmV6FxTA" target="_blank">
-          <img src="http://img.youtube.com/vi/PwurmV6FxTA/0.jpg" 
-               alt="Large Language Models" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/PwurmV6FxTA/0.jpg"
+               alt="Large Language Models"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
       <td align="center">
         <b>Large Language Models</b><br>
         <i>Advanced Applications</i><br><br>
         <a href="https://youtu.be/TMXWLxsHXzQ" target="_blank">
-          <img src="http://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg" 
-               alt="Large Language Models" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg"
+               alt="Large Language Models"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
     </tr>
@@ -200,20 +192,20 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
         <b>Text Classification</b><br>
         <i>NLP and Predictive Analytics</i><br><br>
         <a href="https://youtu.be/e9JuSwie_qk" target="_blank">
-          <img src="http://img.youtube.com/vi/e9JuSwie_qk/0.jpg" 
-               alt="Text Classification" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/e9JuSwie_qk/0.jpg"
+               alt="Text Classification"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
       <td align="center">
         <b>Image Classification</b><br>
         <i>Computer Vision Fundamentals</i><br><br>
         <a href="https://youtu.be/ulgE5y2ywq8" target="_blank">
-          <img src="http://img.youtube.com/vi/ulgE5y2ywq8/0.jpg" 
-               alt="Image Classification" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/ulgE5y2ywq8/0.jpg"
+               alt="Image Classification"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
     </tr>
@@ -222,20 +214,20 @@ pipeline development and analytics, mathematical algorithms, theoretical modelin
         <b>Ensemble Models</b><br>
         <i>Bagging and Boosting Logic</i><br><br>
         <a href="https://youtu.be/5YQ3v-WnVWA" target="_blank">
-          <img src="http://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg" 
-               alt="Ensemble Models" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg"
+               alt="Ensemble Models"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
       <td align="center">
         <b>Gradient Boosting & XGBoost</b><br>
         <i>High-Performance ML Models</i><br><br>
         <a href="https://youtu.be/gMdk-nFTpHY" target="_blank">
-          <img src="http://img.youtube.com/vi/gMdk-nFTpHY/0.jpg" 
-               alt="Gradient Boosting & XGBoost Models" 
-               width="350" 
-               style="border: 10px solid #2d3436; border-radius: 10px;"/>
+          <img src="https://img.youtube.com/vi/gMdk-nFTpHY/0.jpg"
+               alt="Gradient Boosting & XGBoost Models"
+               width="350"
+               style="border-radius:12px;" />
         </a>
       </td>
     </tr>
