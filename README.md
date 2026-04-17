@@ -111,43 +111,33 @@ Big Data Engineer professional and researcher with experience in software applic
 
 #### ✅ For more, click on to watch:
 
-* **GeoSpatial Projects overview (3 min)**
-
+---
+ 
+## 🎬 Watch the Projects
+ 
+### GeoSpatial Projects Overview · 3 min
+ 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
-    <img src="https://img.youtube.com/vi/lVrTB5CuoSc/0.jpg"
-         alt="Real-Time GeoSpatial Big Data | Processing and Governing"
-         width="380"
-         style="border-radius:12px;" />
+    <img src="assets/thumbnails/geospatial_processing.png" width="370" alt="Real-Time GeoSpatial Big Data | Processing and Governing"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
-    <img src="https://img.youtube.com/vi/1wyI5fd24Pc/0.jpg"
-         alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"
-         width="380"
-         style="border-radius:12px;" />
+    <img src="assets/thumbnails/geospatial_geofencing.png" width="370" alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"/>
   </a>
-  <br>
-  <b>Real-Time GeoSpatial Big Data</b>
-  <br>
-  <i>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬢ Geofencing and Optimization</i>
+  <br/><br/>
+  <sub><b>Real-Time GeoSpatial Big Data</b></sub>
+  <br/>
+  <sub>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geofencing and Optimization</sub>
 </p>
-
 <br/>
-
-* **Detailed GeoSpatial Project development**
-
+### Detailed GeoSpatial Project Development
+ 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Wfw7ev3jt4U" target="_blank">
-    <img src="https://img.youtube.com/vi/Wfw7ev3jt4U/0.jpg"
-         alt="Real-Time GeoSpatial Big Data | Processing and Governing"
-         width="380"
-         style="border-radius:12px;" />
+    <img src="assets/thumbnails/geospatial_detailed.png" width="500" alt="Real-Time GeoSpatial Big Data | Detailed"/>
   </a>
 </p>
-
-<br/>
-
 ---
  
 ## 📚 You Might Also Enjoy
