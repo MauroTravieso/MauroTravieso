@@ -138,6 +138,7 @@ Big Data Engineer professional and researcher with experience in software applic
     <img src="assets/thumbnails/geospatial_detailed.png" width="500" alt="Real-Time GeoSpatial Big Data | Detailed"/>
   </a>
 </p>
+
 ---
  
 ## 📚 You Might Also Enjoy
