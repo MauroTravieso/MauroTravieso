@@ -16,7 +16,7 @@ Big Data Engineer professional and researcher with experience in software applic
  
 ---
 
-#### ⚡ Latest!: 
+#### ⚡ Latest Projects! 
 
 <br/>
 
