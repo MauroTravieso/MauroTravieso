@@ -109,11 +109,7 @@ Big Data Engineer professional and researcher with experience in software applic
 
 ---
 
-#### ✅ For more, click on to watch:
-
----
- 
-## 🎬 Watch the Projects
+## ✅ For more, click on to watch the Projects 🎬:
  
 ### GeoSpatial Projects Overview · 3 min
  
@@ -131,6 +127,7 @@ Big Data Engineer professional and researcher with experience in software applic
   <sub>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geofencing and Optimization</sub>
 </p>
 <br/>
+
 ### Detailed GeoSpatial Project Development
  
 <p align="center">
