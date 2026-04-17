@@ -275,6 +275,7 @@ Big Data Engineer professional and researcher with experience in software applic
 ## 📊 GitHub Stats
  
 <div align="center">
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauroTravieso&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 &nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTravieso&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
