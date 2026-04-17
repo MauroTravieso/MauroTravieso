@@ -148,82 +148,62 @@ Big Data Engineer professional and researcher with experience in software applic
 
 <br/>
 
-#### You would like to watch
 ---
-
+ 
+## 📚 You Might Also Enjoy
+ 
 <p align="center">
-  <table align="center">
+  <table>
     <tr>
-      <td align="center">
-        <b>Large Language Models</b><br>
-        <i>Foundations and Architectures</i><br><br>
+      <td align="center" width="340">
+        <b>Large Language Models</b><br/>
+        <sub>Foundations and Architectures</sub><br/><br/>
         <a href="https://www.youtube.com/watch?v=PwurmV6FxTA" target="_blank">
-          <img src="https://img.youtube.com/vi/PwurmV6FxTA/0.jpg"
-               alt="Large Language Models"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/llm_foundations.png" width="300" alt="Large Language Models - Foundations"/>
         </a>
       </td>
-      <td align="center">
-        <b>Large Language Models</b><br>
-        <i>Advanced Applications</i><br><br>
+      <td align="center" width="340">
+        <b>Large Language Models</b><br/>
+        <sub>Advanced Applications</sub><br/><br/>
         <a href="https://youtu.be/TMXWLxsHXzQ" target="_blank">
-          <img src="https://img.youtube.com/vi/TMXWLxsHXzQ/0.jpg"
-               alt="Large Language Models"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/llm_advanced.png" width="300" alt="Large Language Models - Advanced"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>Text Classification</b><br>
-        <i>NLP and Predictive Analytics</i><br><br>
+        <b>Text Classification</b><br/>
+        <sub>NLP and Predictive Analytics</sub><br/><br/>
         <a href="https://youtu.be/e9JuSwie_qk" target="_blank">
-          <img src="https://img.youtube.com/vi/e9JuSwie_qk/0.jpg"
-               alt="Text Classification"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/text_classification.png" width="300" alt="Text Classification"/>
         </a>
       </td>
       <td align="center">
-        <b>Image Classification</b><br>
-        <i>Computer Vision Fundamentals</i><br><br>
+        <b>Image Classification</b><br/>
+        <sub>Computer Vision Fundamentals</sub><br/><br/>
         <a href="https://youtu.be/ulgE5y2ywq8" target="_blank">
-          <img src="https://img.youtube.com/vi/ulgE5y2ywq8/0.jpg"
-               alt="Image Classification"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/image_classification.png" width="300" alt="Image Classification"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>Ensemble Models</b><br>
-        <i>Bagging and Boosting Logic</i><br><br>
+        <b>Ensemble Models</b><br/>
+        <sub>Bagging and Boosting Logic</sub><br/><br/>
         <a href="https://youtu.be/5YQ3v-WnVWA" target="_blank">
-          <img src="https://img.youtube.com/vi/5YQ3v-WnVWA/0.jpg"
-               alt="Ensemble Models"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/ensemble_models.png" width="300" alt="Ensemble Models"/>
         </a>
       </td>
       <td align="center">
-        <b>Gradient Boosting & XGBoost</b><br>
-        <i>High-Performance ML Models</i><br><br>
+        <b>Gradient Boosting & XGBoost</b><br/>
+        <sub>High-Performance ML Models</sub><br/><br/>
         <a href="https://youtu.be/gMdk-nFTpHY" target="_blank">
-          <img src="https://img.youtube.com/vi/gMdk-nFTpHY/0.jpg"
-               alt="Gradient Boosting & XGBoost Models"
-               width="350"
-               style="border-radius:12px;" />
+          <img src="assets/thumbnails/gradient_boosting.png" width="300" alt="Gradient Boosting & XGBoost"/>
         </a>
       </td>
     </tr>
   </table>
 </p>
-
-<br/><br/>
-
 ---
  
 ## 🛠️ Tech Stack
