@@ -132,7 +132,7 @@ Big Data Engineer professional and researcher with experience in software applic
  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Wfw7ev3jt4U" target="_blank">
-    <img src="assets/thumbnails/geospatial_detailed.png" width="500" alt="Real-Time GeoSpatial Big Data | Detailed"/>
+    <img src="assets/thumbnails/geospatial_detailed.png" width="370" alt="Real-Time GeoSpatial Big Data | Detailed"/>
   </a>
 </p>
 
