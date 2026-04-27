@@ -1,6 +1,3 @@
-<img width="640" height="360" alt="GIF_3_final" src="https://github.com/user-attachments/assets/ff8a4754-2737-47e3-a35c-7bb50ee818ca" />
-<div align="center">
-
 ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
 
 # Mauro Travieso
