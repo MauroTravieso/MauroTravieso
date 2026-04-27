@@ -1,11 +1,12 @@
 <div align="center">
-![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
-
-# Mauro Travieso
-### `Big Data Engineer · Machine Learning Engineer`
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurotravieso/?locale=en_US)
-[![Profile Views](https://komarev.com/ghpvc/?username=MauroTravieso&style=for-the-badge&color=0e75b6)](https://github.com/MauroTravieso)
+ ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
+ 
+ # Mauro Travieso
+ ### `Big Data Engineer · Machine Learning Engineer`
+  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurotravieso/?locale=en_US)
+ [![Profile Views](https://komarev.com/ghpvc/?username=MauroTravieso&style=for-the-badge&color=0e75b6)](https://github.com/MauroTravieso)
  
 </div>
 
