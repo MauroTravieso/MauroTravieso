@@ -1,3 +1,4 @@
+<img width="640" height="360" alt="GIF_3_final" src="https://github.com/user-attachments/assets/ff8a4754-2737-47e3-a35c-7bb50ee818ca" />
 <div align="center">
 
 ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
@@ -39,6 +40,7 @@ Big Data Engineer professional and researcher with experience in software applic
 <p align="center">
   <img width="500" height="280" alt="Pings-POIs | Calculation & Interaction" src="https://github.com/user-attachments/assets/b315c1e5-0d5d-428d-9dc9-de8ed8082acc" />
   <img width="500" height="280" alt="Geofencing | Dasboarding & API calls" src="https://github.com/user-attachments/assets/b494d8f9-5630-4fa4-b539-75e12a5d397e" />
+ <img width="500" height="280" alt="Data Transformation" src="https://github.com/user-attachments/assets/9ca617f8-a0f5-4734-9e0c-513645d41b9b" />
 </p>
 
 <p align="center">
