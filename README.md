@@ -1,3 +1,4 @@
+<div align="center">
 ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
 
 # Mauro Travieso
