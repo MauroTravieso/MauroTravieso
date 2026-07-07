@@ -114,9 +114,10 @@ Big Data Engineer professional and researcher with experience in software applic
 ## ✅ For more, click to watch the Projects 🎬:
  
 ### GeoSpatial Projects Overview · 3 min
- https://youtu.be/5y2ZAm7CeRQ 
+<!-- 
+https://youtu.be/5y2ZAm7CeRQ 
 <img width="1425" height="804" alt="Screenshot from 2026-07-02 20-40-24" src="https://github.com/user-attachments/assets/a9ee4083-7181-4de5-b1c1-89415be98ea3" />
-
+-->
 
 <p align="center">
   <a href="[https://www.youtube.com/watch?v=lVrTB5CuoSc](https://youtu.be/5y2ZAm7CeRQ)" target="_blank">
