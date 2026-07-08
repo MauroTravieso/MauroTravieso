@@ -1,3 +1,4 @@
+<img width="479" height="359" alt="Luna-Stac_" src="https://github.com/user-attachments/assets/0e40baf0-3db9-4590-bc58-2ffe8a8ab193" />
 <div align="center">
  
  ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
@@ -116,12 +117,11 @@ Big Data Engineer professional and researcher with experience in software applic
 ### GeoSpatial Projects Overview · 3 min
 <!-- 
 https://youtu.be/5y2ZAm7CeRQ 
-<img width="1425" height="804" alt="Luna-Stac" src="https://github.com/user-attachments/assets/e7700a54-12e1-47b7-8aae-d2d4681a946a" />
+<img width="479" height="359" alt="Luna-Stac_" src="https://github.com/user-attachments/assets/c4c0323a-fb1b-4ac6-81d1-2b5623822680" />
 -->
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5y2ZAm7CeRQ" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7700a54-12e1-47b7-8aae-d2d4681a946a" width="370" alt="Luna-Stac | Autonomous Deep-Space Image Intelligence Framework"/>
+    <img src="https://github.com/user-attachments/assets/c4c0323a-fb1b-4ac6-81d1-2b5623822680" width="370" alt="Luna-Stac | Autonomous Deep-Space Image Intelligence Framework"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
