@@ -116,19 +116,14 @@ Big Data Engineer professional and researcher with experience in software applic
 ### GeoSpatial Projects Overview · 3 min
 <!-- 
 https://youtu.be/5y2ZAm7CeRQ 
-<img width="1425" height="804" alt="Screenshot from 2026-07-02 20-40-24" src="https://github.com/user-attachments/assets/a9ee4083-7181-4de5-b1c1-89415be98ea3" />
--->
-
 <img width="1425" height="804" alt="Luna-Stac" src="https://github.com/user-attachments/assets/e7700a54-12e1-47b7-8aae-d2d4681a946a" />
-
-
+-->
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5y2ZAm7CeRQ" target="_blank">
     <img src="https://github.com/user-attachments/assets/e7700a54-12e1-47b7-8aae-d2d4681a946a" width="370" alt="Luna-Stac | Autonomous Deep-Space Image Intelligence Framework"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
     <img src="assets/thumbnails/geospatial_processing.png" width="370" alt="Real-Time GeoSpatial Big Data | Processing and Governing"/>
   </a>
