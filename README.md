@@ -31,6 +31,24 @@ Big Data Engineer professional and researcher with experience in software applic
 
 <br/>
 
+#### 🌍 🛰️ *Luna-Stac | Autonomous Deep-Space Image Intelligence Framework*
+
+##### * Real-Time Imagery & Telemetry Processing/Analytics | Data Governing & Pipeline Orchestration | Dasboarding & Pangeo Stack Ready
+
+<p align="center">
+ <img width="500" height="280" alt="Real-Time Imagery & Telemetry Processing/Analytics" src="https://github.com/user-attachments/assets/e92b8a5e-32df-4195-a904-7cf8066984cd" />
+ <img width="500" height="280" alt="Data Governing & Pipeline Orchestration" src="https://github.com/user-attachments/assets/70129468-ee19-4ed9-b8bb-1f5aad7f3838" />
+ <img width="500" height="280" alt="Dasboarding & Pangeo Stack Ready" src="https://github.com/user-attachments/assets/631c0568-b147-4039-b121-ec9e41b767ae" />  
+</p>
+
+<p align="center">
+  <em>Real-Time Imagery & Telemetry Processing/Analytics          </em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>          Dasboarding & Pangeo Stack Ready
+</em>
+</p>
+
+
+<br/>
+
 #### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
 <!-- <h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4> -->
 
