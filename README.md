@@ -152,14 +152,14 @@ Big Data Engineer professional and researcher with experience in software applic
   </td> 
  </tr>
  <tr aligh="center">
-  <td>
+  <td td align="center" width="340">
     <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
      <img src="assets/thumbnails/geospatial_processing.png" width="370" alt="Real-Time GeoSpatial Big Data | Processing and Governing"/>
     </a>
     <br/><b>Real-Time GeoSpatial Big Data</b>
     <br/><sub>Processing and Governing</sub>
   </td>
-  <td>
+  <td td align="center" width="340">
    <a href="https://youtu.be/DOv18abhx8M" target="_blank">
     <img src="assets/thumbnails/geospatial_geofencing.png" width="370" alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"/>
    </a>
