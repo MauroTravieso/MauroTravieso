@@ -114,10 +114,7 @@ Big Data Engineer professional and researcher with experience in software applic
 ## ✅ For more, click to watch the Projects 🎬:
  
 ### GeoSpatial Projects Overview · 3 min
-<!-- 
-https://youtu.be/5y2ZAm7CeRQ 
-<img width="479" height="359" alt="Luna-Stac_" src="https://github.com/user-attachments/assets/c4c0323a-fb1b-4ac6-81d1-2b5623822680" />
--->
+<!--
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5y2ZAm7CeRQ" target="_blank">
     <img src="https://github.com/user-attachments/assets/c4c0323a-fb1b-4ac6-81d1-2b5623822680" width="370" alt="Luna-Stac | Autonomous Deep-Space Image Intelligence Framework"/>
@@ -138,6 +135,33 @@ https://youtu.be/5y2ZAm7CeRQ
   <br/>
   <sub>Processing and Governing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geofencing and Optimization</sub>
 </p>
+<br/>
+-->
+
+
+<table align="center" style="border: none;">
+ <tr aligh="center">
+  <td>
+   <a href="https://www.youtube.com/watch?v=5y2ZAm7CeRQ" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c4c0323a-fb1b-4ac6-81d1-2b5623822680" width="370" alt="Luna-Stac | Autonomous Deep-Space Image Intelligence Framework"/>
+  </a>
+  <br/><b>Luna-Stac</b>
+  <br/><sub>Autonomous Deep-Space Image Intelligence Framework</sub>
+ <td>
+   <a href="https://www.youtube.com/watch?v=lVrTB5CuoSc" target="_blank">
+    <img src="assets/thumbnails/geospatial_processing.png" width="370" alt="Real-Time GeoSpatial Big Data | Processing and Governing"/>
+   </a>
+   <br/><b>Real-Time GeoSpatial Big Data</b>
+   <br/><sub>Processing and Governing</sub>
+  <td>
+   <a href="https://youtu.be/DOv18abhx8M" target="_blank">
+    <img src="assets/thumbnails/geospatial_geofencing.png" width="370" alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"/>
+   </a>
+   <br/><b>Real-Time GeoSpatial Big Data</b>
+   <br/><sub>Geofencing and Optimization</sub>   
+  </td>
+ </tr>
+</table>
 <br/>
 
 ### Detailed GeoSpatial Project Development
