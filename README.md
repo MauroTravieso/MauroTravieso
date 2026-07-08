@@ -124,9 +124,11 @@ Big Data Engineer professional and researcher with experience in software applic
     <img src="assets/thumbnails/geospatial_processing.png" width="370" alt="Real-Time GeoSpatial Big Data | Processing and Governing"/>
   </a>
   &nbsp;&nbsp;
+ -->
   <!-- <a href="https://youtu.be/1wyI5fd24Pc" target="_blank">
     <img src="assets/thumbnails/geospatial_geofencing.png" width="370" alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"/>
   </a> --> <!-- https://youtu.be/DOv18abhx8M -->
+  <!--
    <a href="https://youtu.be/DOv18abhx8M" target="_blank">
     <img src="assets/thumbnails/geospatial_geofencing.png" width="370" alt="Real-Time GeoSpatial Big Data | Geofencing and Optimization"/>
   </a>
