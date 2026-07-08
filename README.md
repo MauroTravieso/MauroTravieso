@@ -1,4 +1,3 @@
-<img width="479" height="359" alt="Luna-Stac_" src="https://github.com/user-attachments/assets/0e40baf0-3db9-4590-bc58-2ffe8a8ab193" />
 <div align="center">
  
  ![Big Data Engineer](https://github.com/MauroTravieso/MauroTravieso/assets/17593924/588db198-db9c-4f1b-bc90-130c65a9fc15)
