@@ -46,8 +46,9 @@ Big Data Engineer professional and researcher with experience in software applic
 </em>
 </p>
 
-
 <br/>
+
+---
 
 #### 🕸️ *Geofence Detection & Ping-POIs Enrichment*
 <!-- <h4 align="center">🕸️ <i>Geofence Detection & Ping-POIs Enrichment</i></h4> -->
