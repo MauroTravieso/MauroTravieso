@@ -305,10 +305,9 @@ Big Data Engineer professional and researcher with experience in software applic
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroTravieso&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTravieso&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MauroTravieso&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&v=1" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTravieso&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&v=1" alt="Top Languages" height="165" />
 </div>
-<br/>
  
 </div>
 <br/>
